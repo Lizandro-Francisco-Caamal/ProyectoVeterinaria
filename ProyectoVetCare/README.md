@@ -12,8 +12,14 @@ py app.py
 ```
 
 ## Accesos iniciales
-- Administrador: `admin` / `admin123`
+- Administrador: `admin`     / `admin123`
 - Recepcionista: `recepcion` / `recepcion123`
+-  Veterinario 1  `vet1`     / `vet123`
+-  veterinario 2  `vet2`     / `vet123`
+-  veterinario 3  `vet3`     / `vet123`
+-  Veterinario 4  `vet4`     / `vet123`
+-  Cliente 1      `cliente1` / `cliente123`
+-  Cliente 2      `cliente2` / `cliente123`   
 
 Los clientes y veterinarios usan el usuario y contraseña escritos al registrarlos.
 
@@ -66,5 +72,3 @@ Antes de abrir el programa:
 py probar_conexion.py
 py app.py
 ```
-
-Asegúrate de que MySQL esté iniciado en XAMPP.
