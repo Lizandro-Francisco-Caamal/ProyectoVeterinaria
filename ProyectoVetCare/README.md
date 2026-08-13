@@ -1,7 +1,7 @@
 # VetCare moderno
 
 ## Instalación
-1. Importa `actualizar_sistema.sql` en phpMyAdmin.
+1. Importa `veterinaria_BD` en phpMyAdmin.
 2. Revisa `config.py`.
 3. Abre esta carpeta directamente en VS Code.
 4. Ejecuta:
