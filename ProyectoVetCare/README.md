@@ -12,6 +12,7 @@ py app.py
 ```
 
 ## Accesos iniciales
+| Rol           | Usuario     | Contraseña     |
 - Administrador: `admin`     / `admin123`
 - Recepcionista: `recepcion` / `recepcion123`
 -  Veterinario 1  `vet1`     / `vet123`
