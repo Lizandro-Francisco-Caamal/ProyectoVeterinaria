@@ -67,4 +67,3 @@ py probar_conexion.py
 py app.py
 ```
 
-Asegúrate de que MySQL esté iniciado en XAMPP.
