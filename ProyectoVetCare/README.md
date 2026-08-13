@@ -12,7 +12,7 @@ py app.py
 ```
 
 ## Accesos iniciales
-| Rol.        .| Usuario    .| Contraseña    .|
+| ......Rol.....|..Usuario...|...Contraseña...|
 - Administrador: `admin`     / `admin123`
 - Recepcionista: `recepcion` / `recepcion123`
 -  Veterinario 1  `vet1`     / `vet123`
@@ -22,7 +22,6 @@ py app.py
 -  Cliente 1      `cliente1` / `cliente123`
 -  Cliente 2      `cliente2` / `cliente123`   
 
-Los clientes y veterinarios usan el usuario y contraseña escritos al registrarlos.
 
 ## Permisos
 - Administrador: crear clientes y veterinarios.
